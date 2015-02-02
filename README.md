@@ -1,7 +1,6 @@
 # conflict
 fadfadsf
-<<<<<<< HEAD
-
+///////////////////////////////////////////////////////
 
 fadjskfjkadsfj
 fdkasfjdsakfasdfasdfadsfadsfsdafdsa
